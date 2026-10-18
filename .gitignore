@@ -1,0 +1,15 @@
+.gradle
+build
+.idea/
+.project
+.settings/
+.classpath
+nbactions.xml
+nb-configuration.xml
+nbproject/
+.#*
+.vscode/
+.DS_Store
+*.iml
+*.class
+/update-plugin-hub.sh
